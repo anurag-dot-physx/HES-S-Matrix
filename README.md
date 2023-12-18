@@ -12,7 +12,7 @@ Computes the HES-HES-T scattering for two particular partitions of $N_1$ and $N_
 ## 2. HHT_amplitude_all_partitions.nb
 Computes the HES-HES-T scattering for all the partitions of $N_1$ and $N_2$. This notebook stores the peak positions in $\chi$, the corresponding peak amplitudes, and the level spacings between the peak positions in 3 separate files. To import these data files in Mathematica, follow the instructions mentioned in the notebook. The kinematic choices are again as described in the aforementioned article.
 > [!CAUTION]
-> For $`\zeta_1 \cdot \zeta_2 \neq `0$, evaluation can take considerable time for $`N_1, ~ N_2 > 10`$
+> For $`\zeta_1 \cdot \zeta_2 \neq 0`$, evaluation can take considerable time for $`N_1, ~ N_2 > 10`$
 
 
 ## 3. ETH_fomega_computation.nb
