@@ -1,7 +1,7 @@
 # HES-S-Matrix
-S-Matrix contatining highly excited physical string states (HES) and tachyons (T). This is based on the article [arXiv:2312.02127](https://arxiv.org/abs/2312.02127).
+Contains mathematica notebooks to compute S-Matrix contatining highly excited physical string states (HES) and tachyons (T). This is based on the article [arXiv:2312.02127](https://arxiv.org/abs/2312.02127).
 
-This repository contains 3 mathematica notebooks:
+This repository contains 3 notebooks:
 
 ## 1. HHT_amplitude_particular_partitions.nb
 Computes the HES-HES-T scattering for two particular partitions of $N_1$ and $N_2$ respectively. The scattering amplitude is expressed both analytically as an expression of kinematic variable $\chi$ and numerically as data points at $\chi_i$ grid points. The kinematic choices are as described in the aforementioned article.
