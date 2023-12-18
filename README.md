@@ -3,5 +3,5 @@ S-Matrix contatining highly excited physical string states and tachyons. This is
 
 This repository contains 3 mathematica notebooks:
 
-## [HHT_amplitude_particular_partitions.nb](HHT_amplitude_particular_partitions.nb)
-Computes the HES-HES-Tachyon scattering 
+## HHT_amplitude_particular_partitions.nb
+Computes the HES-HES-Tachyon scattering for two particular partitions of $N_1$ and $N_2$ respectively. 
