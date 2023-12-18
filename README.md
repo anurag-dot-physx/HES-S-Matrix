@@ -1,5 +1,5 @@
 # HES-S-Matrix
-Contains mathematica notebooks to compute S-Matrix contatining highly excited physical string states (HES) and tachyons (T). This is based on the article [arXiv:2312.02127](https://arxiv.org/abs/2312.02127).
+Contains mathematica notebooks to compute S-Matrix of highly excited physical string states (HES) and tachyons (T). This is based on the article [arXiv:2312.02127](https://arxiv.org/abs/2312.02127).
 
 This repository contains 3 notebooks:
 
