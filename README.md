@@ -21,4 +21,4 @@ Computes coarse-grained $` \langle HES (N_1) | T | HES (N_2) \rangle `$ for $`N_
 For more details, look into the article.
 
 > [!TIP]
-> It is better to set directories in all three notebooks to keep track of the files stored. Uncomment the notebook cells with `SetDirectory` command to set your desired directories. 
+> It is better to set directories in all three notebooks to keep track of the files stored. Uncomment the notebook cells containing `SetDirectory` command to set your desired directories. 
