@@ -15,3 +15,10 @@ Computes the HES-HES-T scattering for all the partitions of $N_1$ and $N_2$. Thi
 > For $\zeta_1 \cdot \zeta_2 \neq 0$, evaluation can take considerable time for $N_1, ~ N_2 > 10$
 
 
+## 3. ETH_fomega_computation.nb
+Computes coarse-grained $` \langle HES (N_1) | T | HES (N_2) \rangle `$ for $N_1 \neq N_2$ (i.e, off-diagonal S_Matrix elements) with normalized $`| HES \rangle`$ states and calculates $f (\omega)$ from the elements. This is done only for the $ \zeta_1 \cdot \zeta_2 = 0 $ case. This notebook stores both the matrix elements and $f(\omega)$ in two separate files. The latter one is saved in the format $` \{ \cdots , \{\omega_i, f(\omega_i) \}, \cdots \} `$ with $ \omega_i $ being the grid points.
+
+For more details, look into the article.
+
+> [!TIP]
+> It is better to set directories in all three notebooks to keep track of the files stored. Uncomment the notebook cells with `SetDirectory` command to set your desired directories. 
